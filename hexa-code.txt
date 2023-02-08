@@ -1,0 +1,17 @@
+blueDark: #003455
+turquoise: #268699
+yellow: #ffd750/#ffc023
+
+Changer couleur marker point
+
+1180px largeur
+
+Distributeurs super retrogame magasines 
+Points de distributions super retrogame magasines(Gris foncé) 
+Distributeur(Gris foncé)
+Cybersoft(Bleu foncé)
+Boutique Franchise(Bleu foncé)
+Adresse(Plus petit, bleu turquoise)
+Voir Page Info(Jaune Orange)
+
+Roboto(Typo)
